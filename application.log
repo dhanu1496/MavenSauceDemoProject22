@@ -1,0 +1,292 @@
+2022-10-13 16:33:52,094  INFO [main] MavenSauceDemoProject:44 - Browser opened
+2022-10-13 16:33:54,159  INFO [main] MavenSauceDemoProject:48 - URL opened
+2022-10-13 16:33:54,596  INFO [main] MavenSauceDemoProject:52 - Username entered
+2022-10-13 16:33:54,859  INFO [main] MavenSauceDemoProject:54 - Password entered
+2022-10-13 16:33:55,268  INFO [main] MavenSauceDemoProject:56 - Login button clicked
+2022-10-13 16:33:55,268  INFO [main] MavenSauceDemoProject:57 - Homepage open
+2022-10-13 16:34:05,791  INFO [main] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-13 16:34:05,791  INFO [main] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:40:12,685  INFO [main] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:40:17,954  INFO [main] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:40:18,526  INFO [main] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:40:18,777  INFO [main] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:40:19,271  INFO [main] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:40:19,273  INFO [main] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:40:29,704  INFO [main] MavenSauceDemoProject:15 - Menu button clicked
+2022-10-14 07:40:30,078  INFO [main] MavenSauceDemoProject:17 - Logout button clicked
+2022-10-14 07:40:30,079  INFO [main] MavenSauceDemoProject:18 - Login page open
+2022-10-14 07:40:31,125  INFO [main] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:40:31,126  INFO [main] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:41:21,196  INFO [main] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:41:24,641  INFO [main] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:41:25,159  INFO [main] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:41:25,451  INFO [main] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:41:25,897  INFO [main] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:41:25,899  INFO [main] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:41:38,831  INFO [main] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:41:38,831  INFO [main] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:42:36,298  INFO [main] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:42:40,740  INFO [main] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:42:41,506  INFO [main] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:42:41,900  INFO [main] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:42:42,364  INFO [main] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:42:42,365  INFO [main] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:42:53,110  INFO [main] MavenSauceDemoProject:17 - Price low to high filter is selected
+2022-10-14 07:42:53,423  INFO [main] MavenSauceDemoProject:21 - Price (low to high)
+2022-10-14 07:42:53,501  INFO [main] MavenSauceDemoProject:23 - true
+2022-10-14 07:42:54,271  INFO [main] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:42:54,272  INFO [main] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:43:40,097  INFO [main] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:43:44,607  INFO [main] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:43:45,636  INFO [main] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:43:46,106  INFO [main] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:43:46,745  INFO [main] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:43:46,746  INFO [main] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:43:57,104  INFO [main] MavenSauceDemoProject:16 - BackPack added
+2022-10-14 07:43:57,274  INFO [main] MavenSauceDemoProject:18 - Bolt T-shirt added
+2022-10-14 07:43:57,600  INFO [main] MavenSauceDemoProject:20 - Fleece jacket added
+2022-10-14 07:43:57,836  INFO [main] MavenSauceDemoProject:23 - Click on cart
+2022-10-14 07:43:58,003  INFO [main] MavenSauceDemoProject:27 - BoltTShirt removed
+2022-10-14 07:43:58,228  INFO [main] MavenSauceDemoProject:30 - Checkout button clicked
+2022-10-14 07:43:58,864  INFO [main] MavenSauceDemoProject:34 - Firstname Entered
+2022-10-14 07:43:59,569  INFO [main] MavenSauceDemoProject:36 - Lastname Entered
+2022-10-14 07:44:00,006  INFO [main] MavenSauceDemoProject:38 - Zipcode entered
+2022-10-14 07:44:00,583  INFO [main] MavenSauceDemoProject:41 - Continue buttun clicked
+2022-10-14 07:44:00,827  INFO [main] MavenSauceDemoProject:45 - Finish button clicked
+2022-10-14 07:44:01,199  INFO [main] MavenSauceDemoProject:49 - Back to Homepage button clicked
+2022-10-14 07:44:01,245  INFO [main] MavenSauceDemoProject:53 - Title of Homepage is = Swag Labs
+2022-10-14 07:44:02,855  INFO [main] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:44:02,855  INFO [main] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:44:42,023  INFO [main] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:44:45,941  INFO [main] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:44:46,340  INFO [main] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:44:46,689  INFO [main] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:44:47,037  INFO [main] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:44:47,038  INFO [main] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:44:58,278  INFO [main] MavenSauceDemoProject:19 - All products are added
+2022-10-14 07:44:59,234  INFO [main] MavenSauceDemoProject:23 - Clicked on cart
+2022-10-14 07:44:59,970  INFO [main] MavenSauceDemoProject:26 - All items removed
+2022-10-14 07:45:00,144  INFO [main] MavenSauceDemoProject:30 - true
+2022-10-14 07:45:00,969  INFO [main] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:45:00,969  INFO [main] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:45:31,797  INFO [main] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:45:35,218  INFO [main] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:45:36,952  INFO [main] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:45:37,358  INFO [main] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:45:37,909  INFO [main] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:45:37,910  INFO [main] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:47:02,137  INFO [main] MavenSauceDemoProject:17 - About page is open
+2022-10-14 07:47:02,206  INFO [main] MavenSauceDemoProject:19 - Title of aboutpage is = Cross Browser Testing, Selenium Testing, Mobile Testing | Sauce Labs
+2022-10-14 07:47:03,163  INFO [main] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:47:03,163  INFO [main] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:56:30,539  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:56:30,562  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:56:30,532  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:56:38,470  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:56:39,931  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:56:40,544  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:56:41,507  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:56:41,598  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:56:41,598  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:56:42,427  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:56:43,141  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:56:43,775  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:56:43,777  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:56:44,138  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:56:44,499  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:56:44,980  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:56:45,609  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:56:45,610  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:56:53,636  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:56:53,637  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:56:57,121  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:15 - Menu button clicked
+2022-10-14 07:56:59,375  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:17 - Logout button clicked
+2022-10-14 07:56:59,377  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:18 - Login page open
+2022-10-14 07:57:01,224  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:57:04,539  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:57:04,542  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:57:04,816  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:57:05,373  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:57:06,222  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:57:06,866  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:57:06,868  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:57:11,190  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:57:11,977  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:57:11,985  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:57:20,348  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:57:22,146  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:17 - Price low to high filter is selected
+2022-10-14 07:57:22,611  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:21 - Price (low to high)
+2022-10-14 07:57:23,700  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:23 - true
+2022-10-14 07:57:26,924  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:57:26,925  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:57:32,928  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:57:34,131  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:44 - Browser opened
+2022-10-14 07:57:35,615  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:57:36,138  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:57:36,614  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:57:36,615  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:57:42,337  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:57:42,887  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:57:43,505  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:57:44,276  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:57:44,277  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:57:47,527  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:16 - BackPack added
+2022-10-14 07:57:48,042  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:18 - Bolt T-shirt added
+2022-10-14 07:57:48,407  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:20 - Fleece jacket added
+2022-10-14 07:57:48,608  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:48 - URL opened
+2022-10-14 07:57:48,891  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:23 - Click on cart
+2022-10-14 07:57:49,195  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:52 - Username entered
+2022-10-14 07:57:49,336  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:27 - BoltTShirt removed
+2022-10-14 07:57:49,611  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:54 - Password entered
+2022-10-14 07:57:49,741  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:30 - Checkout button clicked
+2022-10-14 07:57:50,175  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:34 - Firstname Entered
+2022-10-14 07:57:50,278  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:56 - Login button clicked
+2022-10-14 07:57:50,278  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:57 - Homepage open
+2022-10-14 07:57:50,575  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:36 - Lastname Entered
+2022-10-14 07:57:50,865  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:38 - Zipcode entered
+2022-10-14 07:57:51,135  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:41 - Continue buttun clicked
+2022-10-14 07:57:51,341  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:45 - Finish button clicked
+2022-10-14 07:57:51,544  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:49 - Back to Homepage button clicked
+2022-10-14 07:57:51,580  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:53 - Title of Homepage is = Swag Labs
+2022-10-14 07:57:52,207  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:57:52,207  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:57:55,240  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:19 - All products are added
+2022-10-14 07:57:55,537  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:23 - Clicked on cart
+2022-10-14 07:57:56,568  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:26 - All items removed
+2022-10-14 07:57:56,785  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:30 - true
+2022-10-14 07:57:59,956  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:57:59,957  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:67 - End of program
+2022-10-14 07:58:46,413  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:17 - About page is open
+2022-10-14 07:58:46,529  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:19 - Title of aboutpage is = Cross Browser Testing, Selenium Testing, Mobile Testing | Sauce Labs
+2022-10-14 07:58:47,201  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:66 - Browse window is closed
+2022-10-14 07:58:47,202  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:67 - End of program
+2022-10-14 16:01:43,404  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:01:43,407  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:02:00,483  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:02:01,766  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:02:01,778  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:02:07,796  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:02:13,732  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:02:14,922  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:02:15,694  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:02:16,503  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:02:16,504  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:02:27,412  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:15 - Menu button clicked
+2022-10-14 16:02:27,907  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:17 - Logout button clicked
+2022-10-14 16:02:27,908  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:18 - Login page open
+2022-10-14 16:02:29,307  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:02:29,308  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:02:33,670  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:02:35,161  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:02:35,613  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:02:35,901  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:02:36,740  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:02:36,740  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:02:45,292  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:02:45,778  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:02:46,255  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:02:46,837  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:02:46,838  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:02:54,463  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:02:54,464  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:02:59,601  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:03:02,036  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:03:02,040  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:03:04,766  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:03:08,235  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:03:08,281  INFO [TestNG-test=chromeTest-1] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:03:09,638  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:03:10,268  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:03:10,796  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:03:10,797  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:03:11,471  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:03:11,680  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:03:12,497  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:03:12,497  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:03:18,024  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:03:18,927  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:03:19,082  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:03:19,845  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:03:19,845  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:03:22,254  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:17 - Price low to high filter is selected
+2022-10-14 16:03:23,550  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:03:24,317  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:21 - Price (low to high)
+2022-10-14 16:03:24,541  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:03:24,598  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:23 - true
+2022-10-14 16:03:25,322  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:03:25,956  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:03:25,956  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:03:26,688  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:03:26,688  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:03:29,645  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:03:29,645  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:03:33,589  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:03:36,357  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:16 - BackPack added
+2022-10-14 16:03:36,553  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:18 - Bolt T-shirt added
+2022-10-14 16:03:36,733  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:20 - Fleece jacket added
+2022-10-14 16:03:36,956  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:23 - Click on cart
+2022-10-14 16:03:37,284  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:27 - BoltTShirt removed
+2022-10-14 16:03:37,616  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:30 - Checkout button clicked
+2022-10-14 16:03:38,033  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:34 - Firstname Entered
+2022-10-14 16:03:38,461  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:36 - Lastname Entered
+2022-10-14 16:03:38,829  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:38 - Zipcode entered
+2022-10-14 16:03:39,424  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:41 - Continue buttun clicked
+2022-10-14 16:03:39,735  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:45 - Finish button clicked
+2022-10-14 16:03:40,005  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:49 - Back to Homepage button clicked
+2022-10-14 16:03:40,043  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:53 - Title of Homepage is = Swag Labs
+2022-10-14 16:03:45,875  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:03:45,876  INFO [TestNG-test=chromeTest-3] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:03:46,415  INFO [TestNG-test=firefoxTest-1] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:03:52,573  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:03:52,579  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:04:02,381  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:04:03,975  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:04:04,658  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:04:04,773  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:04:05,317  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:04:05,317  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:04:16,138  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:15 - Menu button clicked
+2022-10-14 16:04:18,555  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:04:18,556  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:04:27,107  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:05:32,730  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:05:33,178  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:05:33,249  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:05:33,491  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:05:33,979  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:05:33,979  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:05:34,080  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:05:34,190  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:05:34,951  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:05:34,951  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:05:45,580  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:19 - All products are added
+2022-10-14 16:05:45,856  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:16 - BackPack added
+2022-10-14 16:05:45,984  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:23 - Clicked on cart
+2022-10-14 16:05:46,384  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:18 - Bolt T-shirt added
+2022-10-14 16:05:47,131  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:20 - Fleece jacket added
+2022-10-14 16:05:47,421  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:26 - All items removed
+2022-10-14 16:05:47,485  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:30 - true
+2022-10-14 16:05:47,862  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:23 - Click on cart
+2022-10-14 16:05:48,293  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:27 - BoltTShirt removed
+2022-10-14 16:05:48,813  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:30 - Checkout button clicked
+2022-10-14 16:05:48,948  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:34 - Firstname Entered
+2022-10-14 16:05:49,032  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:36 - Lastname Entered
+2022-10-14 16:05:49,111  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:38 - Zipcode entered
+2022-10-14 16:05:49,405  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:41 - Continue buttun clicked
+2022-10-14 16:05:49,685  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:45 - Finish button clicked
+2022-10-14 16:05:50,429  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:49 - Back to Homepage button clicked
+2022-10-14 16:05:50,464  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:53 - Title of Homepage is = Swag Labs
+2022-10-14 16:05:51,953  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:05:51,953  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:05:53,609  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:05:53,610  INFO [TestNG-test=firefoxTest-3] MavenSauceDemoProject:68 - End of program
+2022-10-14 16:05:59,339  INFO [TestNG-test=firefoxTest-2] MavenSauceDemoProject:45 - Browser opened
+2022-10-14 16:06:29,587  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:49 - URL opened
+2022-10-14 16:06:29,877  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:53 - Username entered
+2022-10-14 16:06:30,207  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:55 - Password entered
+2022-10-14 16:06:30,657  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:57 - Login button clicked
+2022-10-14 16:06:30,658  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:58 - Homepage open
+2022-10-14 16:07:18,959  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:17 - About page is open
+2022-10-14 16:07:18,982  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:19 - Title of aboutpage is = Cross Browser Testing, Selenium Testing, Mobile Testing | Sauce Labs
+2022-10-14 16:07:20,443  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:67 - Browse window is closed
+2022-10-14 16:07:20,444  INFO [TestNG-test=chromeTest-2] MavenSauceDemoProject:68 - End of program
